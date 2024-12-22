@@ -1,0 +1,9 @@
+{
+	"id": "calendarium-publish",
+	"name": "Calendarium Publish",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Tool to dump calendarium into a page so it can be picked up by server-side publish code.",
+	"author": "Mournguard",
+	"isDesktopOnly": false
+}
